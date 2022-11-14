@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(31, 209, 141);
+
+}
+
+.container_1 {
+    width: 85%;
+    height: 50px;
+    text-align: left;
+    padding: 8px;
+    border: double white 5px;
+    color: white;
+    margin: 30px;
+    margin-left: 90px;
+
+}
+
+.container_2 {
+    width: 85%;
+    height: 50px;
+    text-align: center;
+    padding: 8px;
+    border: double brown 5px;
+    color: brown;
+    margin: 30px;
+    margin-left: 90px;
+}
+
+.container_3 {
+    width: 85%;
+    height: 50px;
+    text-align: right;
+    padding: 8px;
+    border: double rgb(12, 12, 80) 5px;
+    color: rgb(12, 12, 80);
+    margin: 30px;
+    margin-left: 90px;
+}
